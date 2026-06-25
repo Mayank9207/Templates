@@ -59,3 +59,4 @@ struct SegTree {
   }
 };
 //------------------------------------------------
+//Supports non commutative and non invertible operations as well eg. RMQ.
